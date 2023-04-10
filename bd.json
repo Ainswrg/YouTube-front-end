@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Videos",
+    "src": "./app/assets/img/common/multimedia.svg",
+    "href": "#",
+    "id": 0,
+    "notification": null,
+    "icon": "MdOutlineOndemandVideo"
+  },
+  {
+    "title": "Movies & Shows",
+    "src": "./app/assets/img/common/video-camera.svg",
+    "href": "#",
+    "id": 1,
+    "notification": null,
+    "icon": "MdLocalMovies"
+  },
+  {
+    "title": "Premium Contents",
+    "src": "./app/assets/img/common/gift.svg",
+    "href": "#",
+    "id": 1,
+    "notification": null,
+    "icon": "MdAttachMoney"
+  },
+  {
+    "title": "Live",
+    "src": "./app/assets/img/common/live-news.svg",
+    "href": "#",
+    "id": 2,
+    "notification": null,
+    "icon": "MdOutlineLiveTv"
+  },
+  {
+    "title": "Subscribtions",
+    "src": "./app/assets/img/common/calendar.svg",
+    "href": "#",
+    "id": 3,
+    "notification": "29 new",
+    "icon": "MdSubscriptions"
+  },
+  {
+    "title": "Library",
+    "src": "./app/assets/img/common/smartphone.svg",
+    "href": "#",
+    "id": 4,
+    "notification": null,
+    "icon": "MdVideoLibrary"
+  },
+  {
+    "title": "Liked Videos",
+    "src": "./app/assets/img/common/like.svg",
+    "href": "#",
+    "id": 5,
+    "notification": null,
+    "icon": "MdThumbUp"
+  },
+  {
+    "title": "Watch Later",
+    "src": "/app/assets/img/common/time.svg",
+    "href": "#",
+    "id": 6,
+    "notification": null,
+    "icon": "MdOutlineAccessTimeFilled"
+  },
+  {
+    "title": "Settings",
+    "src": "/app/assets/img/common/time.svg",
+    "href": "#",
+    "id": 6,
+    "notification": null,
+    "icon": "MdVideoSettings"
+  },
+  {
+    "title": "Help & Report",
+    "src": "/app/assets/img/common/time.svg",
+    "href": "#",
+    "id": 6,
+    "notification": null,
+    "icon": "MdSupportAgent"
+  }
+]
