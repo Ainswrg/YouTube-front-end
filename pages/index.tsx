@@ -1,13 +1,9 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
+import type { NextPage } from 'next'
 
-const inter = Inter({ subsets: ['latin'] })
+import Home from '@/app/components/pages/home/Home'
 
-export default function Home() {
-  return (
-    <>
-      <div>Главная</div>
-    </>
-  )
+const HomePage: NextPage = () => {
+  return <Home />
 }
+
+export default HomePage
