@@ -4,12 +4,12 @@ import Image from 'next/image'
 import * as Icon from 'react-icons/md'
 
 import data from '@/bd.json'
-import { Li } from '@/app/components/ui/Li'
+import { Li } from '@/app/components/ui'
 
 import logoImg from '../../../assets/img/common/logo.png'
 import avatarImg from '../../../assets/img/main/avatar.jpg'
 
-const Sidebar: FC<PropsWithChildren> = () => {
+export const Sidebar: FC<PropsWithChildren> = () => {
   return (
     <section className='sidebar'>
       <Link href='/' className='logo' rel='noreferrer'>
@@ -61,5 +61,3 @@ const Sidebar: FC<PropsWithChildren> = () => {
     </section>
   )
 }
-
-export default Sidebar
